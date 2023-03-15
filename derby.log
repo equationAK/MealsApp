@@ -1,0 +1,13 @@
+----------------------------------------------------------------
+Wed Mar 15 10:51:42 EET 2023:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.15.2.0 - (1873585): instance a816c00e-0186-e477-cdc5-000007415d48 
+on database directory /Users/aris/Projects/javaProjects/github/MealsApp/MealsAppDB with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@251a69d7 
+Loaded from file:/Users/aris/.m2/repository/org/apache/derby/derby/10.15.2.0/derby-10.15.2.0.jar
+java.vendor=Oracle Corporation
+java.runtime.version=19.0.2+7-44
+user.dir=/Users/aris/Projects/javaProjects/github/MealsApp
+os.name=Mac OS X
+os.arch=aarch64
+os.version=13.2.1
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
